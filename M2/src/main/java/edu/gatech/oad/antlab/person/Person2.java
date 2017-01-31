@@ -9,7 +9,7 @@ import java.util.Arrays;
  *
  * @author Rishab Kaup
  * @version 1.1
-
+**/
 public class Person2 {
     /** Holds the persons real name */
     private String name;
